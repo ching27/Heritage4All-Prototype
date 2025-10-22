@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Costume",
+    "desc": "Traditional Cantonese opera costume",
+    "image": require("../assets/images/costume.png")
+  },
+  {
+    "id": "2",
+    "title": "Instrument",
+    "desc": "Traditional musical instrument",
+    "image": require("../assets/images/instrument.png")
+  }
+]
